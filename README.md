@@ -1,5 +1,6 @@
 # Bem vindo ao meu perfil do Github, me chamo Fernando.
 ## Sou Desenvolvedor Fullstack
+<br>
 
 ## Tecnologias e Ferramentas
   <div>
@@ -16,4 +17,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
-</div>
+    <br><br>
+  </div>
+
+## Atualmente estou estudando:
+  <div>
+    - Backend com Java e Springboot | Bootcamp DevSuperior - Java Spring Expert 
+  </div>
+
