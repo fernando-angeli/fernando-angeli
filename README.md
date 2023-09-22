@@ -26,6 +26,13 @@
     <br><br>
   </div>
 
+## Estatísticas GitHub:
+  <div>
+    <a href="https://github.com/fernando-angeli">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-angeli&layout=compact&langs_count=7&theme=dracula"/>
+    <br><br>
+  </div>
+  
   ## Contato:
   <div>
     <a href = "mailto:fernando_angeli@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
